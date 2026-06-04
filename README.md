@@ -5,7 +5,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=AI+Engineer;Computer+Science+Student;Open-Source+Enthusiast" alt="Headline" />
     </div>  
 <p align="center">
-  <a href="https://phongsevn.github.io/Portfolio/">
+  <a href="https://nguyenvanphong.net/">
     <img src="https://img.shields.io/badge/Personal_Portfolio-6FDA44?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
 </p>
