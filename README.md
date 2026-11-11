@@ -17,7 +17,7 @@
 <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width = 30px align="center"></picture> <br> **About Me**
 
 
- 🔭 I’m currently working on [My portfolio website](https://PhongAIVN.github.io/Portfolio/)
+ 🔭 I’m currently working on [My portfolio website](https://www.nguyenvanphong.net/)
 
  🌱 I'm currently learning **Deep Learning & Computer Vision**
 
